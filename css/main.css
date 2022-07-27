@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #4663e5;
+  background: #36aa1d;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2142,14 +2142,10 @@ ul.breadcrumb li + li:last-child {
   color: var(--link-hover-color) !important;
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("/images/background2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
-  color: var(--text-color);
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1em;
-  line-height: 2;
 }
 @media (max-width: 767px) {
   .header-inner,
@@ -2300,7 +2296,7 @@ embed {
   white-space: nowrap;
 }
 body {
-  background: url("/images/background.jpg");
+  background: url("/images/background2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2311,12 +2307,17 @@ body {
 }
 .header-inner {
   border-radius: 20px 20px 20px 20px;
-  opacity: 0.85;
+  opacity: 0.9;
 }
 .sidebar {
   transition-duration: 0.4s;
-  opacity: 0.85;
+  opacity: 0.9;
   border-radius: 10px 10px 10px 10px;
+}
+中心文章栏,
+.content {
+  padding-top: 15px;
+  opacity: 0.85;
 }
 .sidebar-inner {
   background: var(--content-bg-color);
