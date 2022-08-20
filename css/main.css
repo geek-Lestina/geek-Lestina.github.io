@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #36aa1d;
+  background: #fffff6;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2307,17 +2307,17 @@ body {
 }
 .header-inner {
   border-radius: 20px 20px 20px 20px;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 .sidebar {
   transition-duration: 0.4s;
-  opacity: 0.9;
+  opacity: 0.75;
   border-radius: 10px 10px 10px 10px;
 }
 中心文章栏,
 .content {
   padding-top: 15px;
-  opacity: 0.85;
+  opacity: 0.65;
 }
 .sidebar-inner {
   background: var(--content-bg-color);
@@ -2326,7 +2326,7 @@ body {
   box-sizing: border-box;
   color: var(--text-color);
   width: 240px;
-  opacity: 0;
+  opacity: 0.85;
 }
 .post-block {
   background: var(--content-bg-color);
