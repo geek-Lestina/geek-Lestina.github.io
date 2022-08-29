@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>My Blog</title>
+        <link>https://geek-lestina.github.io</link>
+        <description>欢迎来到我的小窝</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 20 Aug 2022 21:42:26 +0800</pubDate>
+        <lastBuildDate>Sat, 20 Aug 2022 21:42:26 +0800</lastBuildDate>
+        <category>11</category>
+        <item>
+            <guid isPermalink="true">https://geek-lestina.github.io/2022/08/20/markkdown/hello%20markdown/</guid>
+            <title>Hello Markdown!</title>
+            <link>https://geek-lestina.github.io/2022/08/20/markkdown/hello%20markdown/</link>
+            <pubDate>Sat, 20 Aug 2022 21:42:26 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;mark&gt;（1）标题&lt;/mark&gt;&lt;/p&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一级标题&#34;&gt;#&lt;/a&gt; 一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二级标题&#34;&gt;#&lt;/a&gt; 二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三级标题&#34;&gt;#&lt;/a&gt; 三级标题&lt;/h3&gt;
+&lt;h4 id=&#34;四级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四级标题&#34;&gt;#&lt;/a&gt; 四级标题&lt;/h4&gt;
+&lt;h5 id=&#34;五级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五级标题&#34;&gt;#&lt;/a&gt; 五级标题&lt;/h5&gt;
+&lt;h6 id=&#34;六级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#六级标题&#34;&gt;#&lt;/a&gt; 六级标题&lt;/h6&gt;
+&lt;p&gt;&lt;mark&gt;（2）字体&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;加粗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;斜体加粗&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;删除线&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;高亮&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;我是&lt;sup&gt;上标&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;我是&lt;sub&gt;下标&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;（3）列表&lt;/mark&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;一二三四五&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;+ 上山打老虎&lt;/p&gt;
+&lt;p&gt;+ 老虎没打到&lt;/p&gt;
+&lt;p&gt;+ 打到小松鼠&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;一二三四五&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;上山打老虎&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;老虎没打到&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打到小松鼠&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;mark&gt;（4）表格&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;| Mon | TUE    | WED    | THU    | FRI    |&lt;/p&gt;
+&lt;p&gt;| ------ | ------ | ------ | ------ | ------ |&lt;/p&gt;
+&lt;p&gt;| 上山   | 上山   | 上山   | 上山   | 上山   |&lt;/p&gt;
+&lt;p&gt;| 打老虎 | 打老虎 | 打老虎 | 打老虎 | 打老虎 |&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Mon&lt;/th&gt;
+&lt;th&gt;TUE&lt;/th&gt;
+&lt;th&gt;WED&lt;/th&gt;
+&lt;th&gt;THU&lt;/th&gt;
+&lt;th&gt;FRI&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;上山&lt;/td&gt;
+&lt;td&gt;上山&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;打老虎&lt;/td&gt;
+&lt;td&gt;打老虎&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;mark&gt;（5）引用&lt;/mark&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一二三四五、&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;上山打老虎&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;老虎没打到&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;打到小松鼠&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;mark&gt;（6）分割线&lt;/mark&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;mark&gt;（7）代码&lt;/mark&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;我是代码&lt;/code&gt;&lt;/p&gt;
+&lt;figure class=&#34;highlight plaintext&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;我是代码框&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;Hello world！&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://geek-lestina.github.io/2022/07/27/third-test-viedo-upload/third-test-viedo-upload/</guid>
+            <title>third test viedo upload</title>
+            <link>https://geek-lestina.github.io/2022/07/27/third-test-viedo-upload/third-test-viedo-upload/</link>
+            <pubDate>Wed, 27 Jul 2022 12:55:43 +0800</pubDate>
+            <description><![CDATA[ &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=23207325&amp;bvid=BV1Xp411f7vh&amp;cid=38634561&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; height=&#34;450&#34; width=&#34;100%&#34;&gt; &lt;/iframe&gt; ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://geek-lestina.github.io/2022/07/26/MY-FIRST-HEXO-PHOTO/MY-FIRST-HEXO-PHOTO/</guid>
+            <title>THE FIRST PHOTO TEST</title>
+            <link>https://geek-lestina.github.io/2022/07/26/MY-FIRST-HEXO-PHOTO/MY-FIRST-HEXO-PHOTO/</link>
+            <category>11</category>
+            <pubDate>Tue, 26 Jul 2022 12:55:31 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;插入本地图片&lt;br&gt;
+ markdown 语法&lt;br&gt;
+&lt;img data-src=&#34;/images/11.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+ html 语法&lt;br&gt;
+&lt;img data-src=&#34;/images/11.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;插入网络图片&lt;br&gt;
+ markdown 语法&lt;br&gt;
+&lt;img data-src=&#34;https://images.unsplash.com/photo-1509773896068-7fd415d91e2e?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1169&amp;amp;q=80/11.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+ html 语法&lt;br&gt;
+&lt;img data-src=&#34;https://images.unsplash.com/photo-1509773896068-7fd415d91e2e?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1169&amp;q=80/11.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;imgur 一键分享图片&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
