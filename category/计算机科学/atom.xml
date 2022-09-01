@@ -3,11 +3,91 @@
     <id>https://geek-lestina.github.io</id>
     <title>My Blog • Posts by &#34;计算机科学&#34; category</title>
     <link href="https://geek-lestina.github.io" />
-    <updated>2022-08-20T13:42:26.797Z</updated>
+    <updated>2022-09-01T05:16:59.924Z</updated>
     <entry>
-        <id>https://geek-lestina.github.io/2022/08/20/computer-science/blog/markkdown-1/hello%20markdown/</id>
+        <id>https://geek-lestina.github.io/2022/09/01/computer-science/blog/markkdown/week-2/%E5%BD%B1%E9%9F%B3%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/</id>
+        <title>影音书籍分享</title>
+        <link rel="alternate" href="https://geek-lestina.github.io/2022/09/01/computer-science/blog/markkdown/week-2/%E5%BD%B1%E9%9F%B3%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
+        <content type="html">&lt;h1 id=&#34;书单&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#书单&#34;&gt;#&lt;/a&gt; 书单&lt;/h1&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日期&lt;/th&gt;
+&lt;th&gt;书名&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.18&lt;/td&gt;
+&lt;td&gt;《1984》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.16&lt;/td&gt;
+&lt;td&gt;《改变物理学的 50 个实验》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;电影&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#电影&#34;&gt;#&lt;/a&gt; 电影&lt;/h1&gt;
+&lt;hr&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;日期&lt;/th&gt;
+&lt;th&gt;书名&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.15&lt;/td&gt;
+&lt;td&gt;《天堂电影院》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.16&lt;/td&gt;
+&lt;td&gt;《海上钢琴师》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.23&lt;/td&gt;
+&lt;td&gt;《了不起的盖茨比》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.24&lt;/td&gt;
+&lt;td&gt;《爆裂鼓手》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.28&lt;/td&gt;
+&lt;td&gt;《情书》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.07.29&lt;/td&gt;
+&lt;td&gt;《头文字 D》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.08.03&lt;/td&gt;
+&lt;td&gt;《超体》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2022.08.05&lt;/td&gt;
+&lt;td&gt;《钢琴师》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;2&#34;&gt;2022.07.16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;2&#34;&gt;2022.07.16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan=&#34;2&#34;&gt;2022.07.16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <updated>2022-09-01T05:16:59.924Z</updated>
+    </entry>
+    <entry>
+        <id>https://geek-lestina.github.io/2022/08/20/computer-science/blog/markkdown/week-1/hello%20markdown/</id>
         <title>Hello Markdown!</title>
-        <link rel="alternate" href="https://geek-lestina.github.io/2022/08/20/computer-science/blog/markkdown-1/hello%20markdown/"/>
+        <link rel="alternate" href="https://geek-lestina.github.io/2022/08/20/computer-science/blog/markkdown/week-1/hello%20markdown/"/>
         <content type="html">&lt;p&gt;&lt;mark&gt;（1）标题&lt;/mark&gt;&lt;/p&gt;
 &lt;h1 id=&#34;一级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一级标题&#34;&gt;#&lt;/a&gt; 一级标题&lt;/h1&gt;
 &lt;h2 id=&#34;二级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二级标题&#34;&gt;#&lt;/a&gt; 二级标题&lt;/h2&gt;
