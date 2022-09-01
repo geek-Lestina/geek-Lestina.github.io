@@ -1,17 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "My Blog",
+    "title": "My Blog • All posts by \"计算机科学\" category",
     "description": "欢迎来到我的小窝",
     "home_page_url": "https://geek-lestina.github.io",
     "items": [
-        {
-            "id": "https://geek-lestina.github.io/2022/09/01/computer-science/blog/markdown-2/%E5%BD%B1%E9%9F%B3%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/",
-            "url": "https://geek-lestina.github.io/2022/09/01/computer-science/blog/markdown-2/%E5%BD%B1%E9%9F%B3%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/",
-            "title": "影音书籍分享",
-            "date_published": "2022-09-01T05:16:59.924Z",
-            "content_html": "<h1 id=\"书单\"><a class=\"markdownIt-Anchor\" href=\"#书单\">#</a> 书单</h1>\n<hr>\n<table>\n<thead>\n<tr>\n<th>日期</th>\n<th>书名</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2022.07.18</td>\n<td>《1984》</td>\n</tr>\n<tr>\n<td>2022.07.16</td>\n<td>《改变物理学的 50 个实验》</td>\n</tr>\n</tbody>\n</table>\n<h1 id=\"电影\"><a class=\"markdownIt-Anchor\" href=\"#电影\">#</a> 电影</h1>\n<hr>\n<table>\n<thead>\n<tr>\n<th>日期</th>\n<th>书名</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>2022.07.15</td>\n<td>《天堂电影院》</td>\n</tr>\n<tr>\n<td>2022.07.16</td>\n<td>《海上钢琴师》</td>\n</tr>\n<tr>\n<td>2022.07.23</td>\n<td>《了不起的盖茨比》</td>\n</tr>\n<tr>\n<td>2022.07.24</td>\n<td>《爆裂鼓手》</td>\n</tr>\n<tr>\n<td>2022.07.28</td>\n<td>《情书》</td>\n</tr>\n<tr>\n<td>2022.07.29</td>\n<td>《头文字 D》</td>\n</tr>\n<tr>\n<td>2022.08.03</td>\n<td>《超体》</td>\n</tr>\n<tr>\n<td>2022.08.05</td>\n<td>《钢琴师》</td>\n</tr>\n<tr>\n<td colspan=\"2\">2022.07.16</td>\n</tr>\n<tr>\n<td colspan=\"2\">2022.07.16</td>\n</tr>\n<tr>\n<td colspan=\"2\">2022.07.16</td>\n</tr>\n</tbody>\n</table>\n",
-            "tags": []
-        },
         {
             "id": "https://geek-lestina.github.io/2022/08/20/computer-science/blog/markkdown-1/hello%20markdown/",
             "url": "https://geek-lestina.github.io/2022/08/20/computer-science/blog/markkdown-1/hello%20markdown/",
