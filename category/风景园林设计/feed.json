@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My Blog • All posts by \"风景园林设计\" category",
+    "description": "欢迎来到我的小窝",
+    "home_page_url": "https://geek-lestina.github.io",
+    "items": [
+        {
+            "id": "https://geek-lestina.github.io/2022/09/01/landscape-architecture/Environmental-Psychology/%E7%8E%AF%E5%A2%83%E5%BF%83%E7%90%86%E5%AD%A6/",
+            "url": "https://geek-lestina.github.io/2022/09/01/landscape-architecture/Environmental-Psychology/%E7%8E%AF%E5%A2%83%E5%BF%83%E7%90%86%E5%AD%A6/",
+            "title": "环境心理学",
+            "date_published": "2022-09-01T13:34:13.865Z",
+            "content_html": "<h1 id=\"h1-week-1\"><a class=\"markdownIt-Anchor\" href=\"#h1-week-1\">#</a> H<sub>1</sub>  Week-1</h1>\n<hr>\n<h2 id=\"1-热点研究问题\"><a class=\"markdownIt-Anchor\" href=\"#1-热点研究问题\">#</a> 1. 热点研究问题</h2>\n<ul>\n<li>\n<ol>\n<li>景观的评价和偏爱</li>\n</ol>\n</li>\n<li>\n<ol start=\"2\">\n<li>自然环境对人类行为的积极影响</li>\n</ol>\n</li>\n<li>\n<ol start=\"3\">\n<li>环保行为研究</li>\n</ol>\n</li>\n<li>\n<ol start=\"4\">\n<li>场所、场所感和场所依恋研究</li>\n</ol>\n</li>\n<li>\n<ol start=\"5\">\n<li>进化过程对人类行为的影响</li>\n</ol>\n</li>\n<li>\n<ol start=\"6\">\n<li>各类特定场所中的环境与行为问题</li>\n</ol>\n</li>\n</ul>\n<hr>\n<h2 id=\"2-研究方法\"><a class=\"markdownIt-Anchor\" href=\"#2-研究方法\">#</a> 2. 研究方法</h2>\n<ul>\n<li>\n<ol>\n<li>实验法</li>\n</ol>\n</li>\n<li>\n<ol start=\"2\">\n<li>相关研究</li>\n</ol>\n</li>\n<li>\n<ol start=\"3\">\n<li>描述研究</li>\n</ol>\n</li>\n</ul>\n<hr>\n<h2 id=\"3-资料收集\"><a class=\"markdownIt-Anchor\" href=\"#3-资料收集\">#</a> 3. 资料收集</h2>\n<ul>\n<li>\n<ol>\n<li>观察法</li>\n</ol>\n</li>\n<li>\n<ol start=\"2\">\n<li>自我报告法</li>\n</ol>\n<ul>\n<li>a. 结构式访谈（固定问题提问）</li>\n<li>b. 非结构式访谈（氛围轻松的交流，容易套到真实信息也容易跑偏）</li>\n<li>c. 问卷法</li>\n</ul>\n</li>\n<li>\n<ol start=\"3\">\n<li>投射技术（心理，潜意识反应）</li>\n</ol>\n</li>\n<li>\n<ol start=\"4\">\n<li>档案研究法</li>\n</ol>\n</li>\n</ul>\n",
+            "tags": []
+        }
+    ]
+}
