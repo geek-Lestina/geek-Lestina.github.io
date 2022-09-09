@@ -3,7 +3,39 @@
     <id>https://geek-lestina.github.io</id>
     <title>My Blog</title>
     <link href="https://geek-lestina.github.io" />
-    <updated>2022-09-02T13:41:20.060Z</updated>
+    <updated>2022-09-09T14:12:05.474Z</updated>
+    <entry>
+        <id>https://geek-lestina.github.io/2022/09/09/personal-thinking/chess/%E6%A3%8B%E7%89%8C%E5%93%B2%E5%AD%A6/</id>
+        <title>棋牌学</title>
+        <link rel="alternate" href="https://geek-lestina.github.io/2022/09/09/personal-thinking/chess/%E6%A3%8B%E7%89%8C%E5%93%B2%E5%AD%A6/"/>
+        <content type="html">&lt;p&gt;围棋、国际象棋和桥牌并称为世界三大智力运动。&lt;/p&gt;
+&lt;h1 id=&#34;h1-围棋&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h1-围棋&#34;&gt;#&lt;/a&gt; H&lt;sub&gt;1&lt;/sub&gt; 围棋&lt;/h1&gt;
+&lt;p&gt;规则：&lt;/p&gt;
+&lt;p&gt;棋盘：19 路棋盘（标准），13 路，9 路&lt;br&gt;
+执子：中指在棋上，食指在旗下&lt;br&gt;
+顺序：一方 a 用手抓取少量白棋，另一方 b 猜数量单双（在棋盘上放一子表单，二字表双）&lt;br&gt;
+这时 a 松开手掌将白子排成两子一排，核对单双后，猜对一方拿黑棋，猜错则拿白棋&lt;br&gt;
+棋格：九个黑点 —— 星，其中中间为天元，其他点则为普通交叉点&lt;br&gt;
+气：气决定棋的生存，与棋子有直线相连的交叉点就是棋的气，因此四个角的棋子只有 2 个气而两个相连的棋子则有 6 个气，斜线的交点不属于它们的气&lt;br&gt;
+终局后，占地盘多的一方获胜&lt;/p&gt;
+&lt;p&gt;技巧&lt;/p&gt;
+&lt;h1 id=&#34;h2-国际象棋&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h2-国际象棋&#34;&gt;#&lt;/a&gt; H&lt;sub&gt;2&lt;/sub&gt; 国际象棋&lt;/h1&gt;
+&lt;h1 id=&#34;h3-桥牌&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h3-桥牌&#34;&gt;#&lt;/a&gt; H&lt;sub&gt;3&lt;/sub&gt; 桥牌&lt;/h1&gt;
+</content>
+        <updated>2022-09-09T14:12:05.474Z</updated>
+    </entry>
+    <entry>
+        <id>https://geek-lestina.github.io/2022/09/09/personal-thinking/econocy/%E8%82%A1%E7%A5%A8%E9%87%91%E8%9E%8D/</id>
+        <title>棋牌学</title>
+        <link rel="alternate" href="https://geek-lestina.github.io/2022/09/09/personal-thinking/econocy/%E8%82%A1%E7%A5%A8%E9%87%91%E8%9E%8D/"/>
+        <content type="html">&lt;h1 id=&#34;h1-股票与基金&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h1-股票与基金&#34;&gt;#&lt;/a&gt; H&lt;sub&gt;1&lt;/sub&gt;   股票与基金&lt;/h1&gt;
+&lt;p&gt;股票与基金的不同：前者购买是立即的，但是卖要 n+1 天（国内股，香港和国外的也是即时卖出的），听说如此是因为不想人们忽视了实体经济。&lt;/p&gt;
+&lt;p&gt;股票虽然看起来是资金的收割很纯粹的金融行为，但是&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;h2-erp沙盘模拟&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#h2-erp沙盘模拟&#34;&gt;#&lt;/a&gt; H&lt;sub&gt;2&lt;/sub&gt;   ERP 沙盘模拟&lt;/h1&gt;
+</content>
+        <updated>2022-09-09T14:11:57.979Z</updated>
+    </entry>
     <entry>
         <id>https://geek-lestina.github.io/2022/09/02/landscape-architecture/Built%20environmental%20performance%20and%20sustainability/%E5%BB%BA%E6%88%90%E7%8E%AF%E5%A2%83%E7%BB%A9%E6%95%88%E5%92%8C%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7/</id>
         <title>建成环境绩效和可持续性</title>
