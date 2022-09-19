@@ -5,6 +5,14 @@
     "home_page_url": "https://geek-lestina.github.io",
     "items": [
         {
+            "id": "https://geek-lestina.github.io/2022/09/19/computer-science/entrepreneurship/1/%E4%BA%92%E8%81%94%E7%BD%91%E5%88%9B%E4%B8%9A%E6%95%99%E7%A8%8B%E3%80%81/",
+            "url": "https://geek-lestina.github.io/2022/09/19/computer-science/entrepreneurship/1/%E4%BA%92%E8%81%94%E7%BD%91%E5%88%9B%E4%B8%9A%E6%95%99%E7%A8%8B%E3%80%81/",
+            "title": "互联网创业教程",
+            "date_published": "2022-09-19T07:17:19.676Z",
+            "content_html": "<h1 id=\"day1\"><a class=\"markdownIt-Anchor\" href=\"#day1\">#</a> Day1</h1>\n<h2 id=\"1-创新\"><a class=\"markdownIt-Anchor\" href=\"#1-创新\">#</a> 1、创新</h2>\n<ul>\n<li>1. 模式创新（SME）：外卖快餐整合 —— 美团</li>\n<li>2. 技术创新（IDE）：大疆（玩具遥控飞机 —— 悬停技术 —— 摄像头云台 —— 现在的航拍飞机）、有米科技（神庙逃亡：以前游戏的盈利手段：死了充钱复活，有米引入了一种手段，做广告中间商，收入广告投放需求，对接游戏，复活以看广告的方式）</li>\n</ul>\n<h2 id=\"2-时代背景\"><a class=\"markdownIt-Anchor\" href=\"#2-时代背景\">#</a> 2、 时代背景</h2>\n<p>互联网从 pc 端 —— 移动端（很多 pc 高需求的软件都已经移植到移动端了）<br>\nweb2.0——web3.0</p>\n<h2 id=\"3-经典案例\"><a class=\"markdownIt-Anchor\" href=\"#3-经典案例\">#</a> 3、经典案例</h2>\n<ul>\n<li>1. 社交网站的发展历程<br>\n BBS（类似留言，回复不实时，水木清华、北大未名、逸仙时空、华南木棉、东篱采菊）——FORUM（论坛，天涯论坛，论坛的各分支领域有坛主）——<br>\nBLOG（一些经常更新且想只发表自己看法的博主衍生出来的博客，个人博客别人不能发帖只能评论）——<br>\n2006 新浪博客（微博）——<br>\n 飞信（免费的短信，在以前春节四大运营商短信的收入就达到几亿元）——<br>\nQQ 空间（博客 + 音乐，腾讯利用自身 qq 音乐地位）——<br>\n 微信<br>\n陌陌（陌生人社交）<br>\n探探（加入偏好算法）</li>\n</ul>\n<p>规律：利用摩尔定律提前布局，文字 —— 语音 —— 视频（网速发展）</p>\n<ul>\n<li>\n<p>2. 下载器的发展<br>\n蚂蚁 —— 电驴 —— 迅雷 —— 百度云 —— 微盘 —— 个人空间 —— 快传<br>\n（局域网与网上邻居 —— 每台 pc 当服务器的设想 —— 调节带宽冲 vip 的设想 —— 便利性与优惠布局初始移动硬盘衰落，进而垄断发展 —— 私密空间）</p>\n</li>\n<li>\n<p>3. 微信的迭代<br>\n从一开始的布局就是和 qq 不同（面下移动端），开创性<br>\n 1.0 与微博私信互通、电话注册支持通讯录好友、<br>\n2.0 语音、邮箱提醒（创始人是 qq 邮箱的）、好友验证、隐私设置<br>\n 3.0 接收 qq 离线信息、查找附近的人<br>\n 4.0 摇一摇、漂流瓶、二维码扫描、更多的表情<br>\n 5.0 朋友圈、发视频、图片<br>\n 6.0 视频聊天<br>\n 7.0 公众号、绑定银行卡（金融）（发红包的引流，带来绑定银行卡的热潮，因此为微信金融布局）<br>\n8.0 转账、管理我的零钱<br>\n 9.0 小视频、小游戏、小程序<br>\n 10.0 开发者模式</p>\n</li>\n</ul>\n",
+            "tags": []
+        },
+        {
             "id": "https://geek-lestina.github.io/2022/09/01/computer-science/scrapy/%E7%88%AC%E5%8F%96%E6%9F%90%E7%82%B9%E8%AF%84%E7%BD%91%E7%AB%99%E8%AF%84%E8%AE%BA%E6%95%B0%E6%8D%AE/",
             "url": "https://geek-lestina.github.io/2022/09/01/computer-science/scrapy/%E7%88%AC%E5%8F%96%E6%9F%90%E7%82%B9%E8%AF%84%E7%BD%91%E7%AB%99%E8%AF%84%E8%AE%BA%E6%95%B0%E6%8D%AE/",
             "title": "爬取某点评网站评论",
